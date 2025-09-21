@@ -107,10 +107,6 @@ Accessible URLs can be served via Express static middleware (if configured).
 ## 🙌 Contribution
 
 This project is part of a learning + job showcase initiative.  
-Feel free to clone, modify, and use it to learn backend + frontend integration.
 
 ---
 
-## 📄 License
-
-Free to use for educational and project-building purposes.
